@@ -2,4 +2,4 @@
 
 1. [git](git.md)
 
-[comment]: <> (TODO: README 파일 작성, 추가)
+[comment]: <> (TODO: 주석 관련된 README 작성)
